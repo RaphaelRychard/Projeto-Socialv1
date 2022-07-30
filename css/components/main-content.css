@@ -2,4 +2,5 @@
     position: relative;
     height: 100vh;
     background: teal url('/image/fundo-madeira.jpg');
+    padding: 10px;
 }
