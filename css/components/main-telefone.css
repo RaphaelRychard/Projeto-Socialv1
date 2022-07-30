@@ -1,0 +1,23 @@
+.main-telefone {
+    height: 500px;
+    width: 500px;
+
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 311px;
+    height: 627px;
+    background:  url(/image/frame-iphone.png) no-repeat;
+}
+
+.main-telefone iframe#tela {   
+    width: 266px;
+    height: 471px;
+
+    position: absolute;
+    top: 80px;
+    left: 23px;
+
+}
